@@ -1,5 +1,5 @@
 # aws-sns-demo
-AWS simple notification service for pub-sub model based notification.
+AWS simple notification service based on pub-sub model.
 
 Getting set up :+1:
 ## Required software/tools
